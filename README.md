@@ -2,7 +2,7 @@
 Java Image manipulation program. Applied various algorithms and used data structures.
 
 
-##Algorithms Applied
+## Algorithms Applied
 - Blur image
 - Reduce a picture to its most common colors
 - Change the contrast of the picture
